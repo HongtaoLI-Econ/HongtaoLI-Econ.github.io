@@ -5,10 +5,10 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/utokyo
 venue: "The University of Tokyo, Graduate School of Pubilc Policy"
-date: 2020
+date: 2020-01-01
+location: "Tokyo, Japan"
 ---
 
-Teaching Experience
 ======
 * The University of Tokyo, Graduate School of Public Policy (Graduate Teaching Fellow)
   * 2024 Autumn: Macroeconomics (Graduate Core)
