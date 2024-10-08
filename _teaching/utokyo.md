@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/utokyo
 venue: "The University of Tokyo, Graduate School of Pubilc Policy"
 ---
