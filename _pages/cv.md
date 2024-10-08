@@ -18,13 +18,13 @@ Education
 Teaching Experience
 ======
 * The University of Tokyo, Graduate School of Public Policy (Graduate Teaching Fellow)
-  * 2024 Autumn: Macroeconomics (Master Core)
-  * 2024 Autumn: Practice Session for Macroeconomics (Instructor, Master Core)
-  * 2023 Autumn: Macroeconomics (Master Core)
-  * 2023 Autumn: Practice Session for Macroeconomics (Instructor, Master Core)
-  * 2022 Autumn: Macroeconomics (Master Core)
-  * 2022 Autumn: Practice Session for Macroeconomics (Instructor, Master Core)
-  * 2020 Autumn: Mathematics for Public Policy (Master)
+  * 2024 Autumn: Macroeconomics (Graduate Core)
+  * 2024 Autumn: Practice Session for Macroeconomics (Instructor, Graduate Core)
+  * 2023 Autumn: Macroeconomics (Graduate Core)
+  * 2023 Autumn: Practice Session for Macroeconomics (Instructor, Graduate Core)
+  * 2022 Autumn: Macroeconomics (Graduate Core)
+  * 2022 Autumn: Practice Session for Macroeconomics (Instructor, Graduate Core)
+  * 2020 Autumn: Mathematics for Public Policy (Graduate)
   
 Work Experience
 ======
