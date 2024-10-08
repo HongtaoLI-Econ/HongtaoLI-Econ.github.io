@@ -15,6 +15,18 @@ I graduated from the Economic Policy Program of the Graduate School of Public Po
 
 I graduated from the Department of Mathematics of the School of Mathematics at Sun Yat-sen University with a Bachelor's Degree in Mathematics in June 2018.
 
+Publication
+===
+* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng HAN, Japan and the World Economy, Vol. 64, 2022, 101162.
+
+Working Papers
+===
+* "What happens when people are cautious? Analysis from the SIR-macro model"
+
+Working in Progress
+===
+* "Analysis of Covid-19 Lockdown Policy Rules: A Pareto Improvement Perspective" with Taisuke Nakata
+
 My CV is here: [Curriculum Vitae](../files/CV_Hongtao_LI_202410.pdf).
 
 [Email](lee.hungtou@gmail.com): lee.hungtou[at]gmail.com  
