@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience in UTokyo"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/utokyo
