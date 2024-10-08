@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Public Policy, International Finance and Development, The University of Tokyo, 2026 (expected)
+* Ph.D. in Public Policy, International Finance and Development, The University of Tokyo, 2026 (expected)
 * M.P.P in Economic Policy, The University of Tokyo, 2021
 * B.S. in Mathematics, Sun Yat-sen University, 2018
 
