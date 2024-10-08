@@ -34,7 +34,7 @@ Work Experience
   * Duties included: Epidemiological Macroeconomics model analysis
   * Supervisor: Professor Taisuke Nakata
 
-* Summer 2015: Research Assistant
+* 2021 Autumn: Research Assistant
   * Tongji University
   * Research project: Political Process and Transaction Cost.
   * Duties included: Estimation analysis
