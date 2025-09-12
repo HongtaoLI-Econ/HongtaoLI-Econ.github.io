@@ -9,7 +9,7 @@ redirect_from:
 
 My CV is here: [CV](../files/CV_Hongtao LI_202509.pdf) .
 
-[Email](lee.hungtou@gmail.com): lee.hungtou[at]gmail.com  
+Email: lee.hungtou[at]gmail.com  
 
 I'm a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://www.pp.u-tokyo.ac.jp/en/)). 
 
