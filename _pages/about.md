@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My CV is here: [Curriculum Vitae](../files/CV_Hongtao_LI_202509.pdf).
+My CV is here: [Curriculum Vitae](../files/CV_Hongtao LI_202509.pdf).
 
 [Email](lee.hungtou@gmail.com): lee.hungtou[at]gmail.com  
 
