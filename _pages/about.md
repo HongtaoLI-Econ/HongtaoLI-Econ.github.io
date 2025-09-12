@@ -17,7 +17,7 @@ I'm a Ph.D. Candidate from the Department of International Finance and Developme
 My research interests include Macroeconomics, Economic Policy, Epidemiological Dynamics, International Finance, and International Economics.
 
 
-I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0) from the Graduate School of Economics and the Graduate School of Public Policy, and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/), from the Graduate School of Public Policy at the University of Tokyo.
+I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0), and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/) at the University of Tokyo.
 
 Publication:
 ===
