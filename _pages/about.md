@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My CV is here: [CV](../files/CV_Hongtao LI_202509.pdf) .
+My CV is here: [CV](../files/CV_Hongtao LI_202509.pdf).
 ===
 
 Email: lee.hungtou[at]gmail.com  
