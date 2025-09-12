@@ -9,7 +9,8 @@ redirect_from:
 
 I'm a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://www.pp.u-tokyo.ac.jp/en/)). 
 
-My research interests include Macroeconomics, Public Health, and International Finance.
+My research interests include Macroeconomics, Economic Policy, Epidemiological Dynamics, International Finance, and International Economics.
+.
 
 I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0) from the Graduate School of Economics and the Graduate School of Public Policy, and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/), from the Graduate School of Public Policy at the University of Tokyo.
 
@@ -23,11 +24,15 @@ Publication:
 
 Working Papers:
 ===
-* "What happens when people are cautious? Analysis from the SIR-macro model"
+* "Optimal Containment Policy in a SIR-macro Model with Cautiousness"
 
 Working in Progress:
 ===
-* "Analysis of Covid-19 Lockdown Policy Rules: A Pareto Improvement Perspective" with Taisuke Nakata
+* "Lockdown Policy Rules with Hospital Capacity Constraints" with Yuta Maeda, Hiroki Sakamoto, Taisuke Nakata, and Hiroyuki Uneya, September 2025, to be presented at Research Workshop, CiDER, Osaka University
+
+
+* "Real-Time Covid-19 Projections in Japan: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata, September 2025, to be presented at Research Workshop, CiDER, Osaka University
+
 
 My CV is here: [Curriculum Vitae](../files/CV_Hongtao_LI_202410.pdf).
 
