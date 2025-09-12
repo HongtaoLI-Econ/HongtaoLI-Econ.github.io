@@ -28,7 +28,7 @@ Teaching Experience
   
 Work Experience
 ======
-* 2021 - Present: Research Assistant
+* 2021 - 2025: Research Assistant
   * The University of Tokyo
   * Research project: Covid-19 and Output in Japan.
   * Duties included: Epidemiological Macroeconomics model analysis
@@ -53,23 +53,24 @@ Conference Presentation
 
 Fundings
 ======
-* Ministry of Education Culture Sports Science and Technology, WINGS-GSDM Designing Future Society Fellowship Research Fund, Project Number 150201SP01.
+* Ministry of Education, Culture, Sports, Science and Technology, WINGS-GSDM Designing Future Society Fellowship Research Fund, Project Number 150201SP01. (Stipend paid in 2021 and 2023; not paid in 2022 owing to residence abroad)
 
 Awards and Grants
 ======
  * Designing Future Society Fellowship, April 2021 - March 2024: full scholarship, provided by Global
-Leadership Program for Social Design and Management, The University of Tokyo, JASSO.
+Leadership Program for Social Design and Management, The University of Tokyo, JASSO. (Stipend paid in 2021 and 2023; not paid in 2022 owing to residence abroad)
  * MEXT Honors Scholarship, JASSO, 2020.
   
 Programming Skills
 ======
 * Matlab
 * STATA
+* Microsoft Office
   
 Languages
 ======
 * Mandarin (Native)
 * Cantonese (Native)
-* Japanese (Full Professional Proficiency)
-* English (Full Professional Proficiency)
+* Japanese (Fluent)
+* English (Fluent)
 
