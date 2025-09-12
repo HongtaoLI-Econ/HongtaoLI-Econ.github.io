@@ -24,7 +24,7 @@ Publication:
 
 Working Paper:
 ===
-* "Optimal Containment Policy in a SIR-macro Model with Cautiousness"
+* "Optimal Containment Policy in a SIR-macro Model with Cautiousness", June 2025
 
 Working in Progress:
 ===
