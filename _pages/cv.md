@@ -49,8 +49,9 @@ Publications
   
 Conference Presentation
 ======
-2022: The 2nd TWID International Finance Conference, The University of Tokyo.
-2025: Research Workshop, “Recent Development in Pandemic Policy Research”, CiDER, Osaka University.
+* 2022: The 2nd TWID International Finance Conference, The University of Tokyo.
+
+* 2025: Research Workshop, “Recent Development in Pandemic Policy Research”, CiDER, Osaka University.
 
 
 Fundings
