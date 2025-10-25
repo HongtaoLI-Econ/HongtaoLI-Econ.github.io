@@ -29,14 +29,16 @@ Publication:
 
 Working Paper:
 ===
-* "Optimal Containment Policy in a SIR-macro Model with Cautiousness", June 2025
+* "Optimal Containment Policy in a SIR-macro Model with Cautiousness", September 2025
+
+* "Real-Time Covid-19 Projections in Japan: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata, September 2025, Research Workshop, CiDER, Osaka University
 
 Working in Progress:
 ===
-* "Lockdown Policy Rules with Hospital Capacity Constraints" with Yuta Maeda, Hiroki Sakamoto, Taisuke Nakata, and Hiroyuki Uneya, September 2025, to be presented at Research Workshop, CiDER, Osaka University
+* "Lockdown Policy Rules with Hospital Capacity Constraints" with Yuta Maeda, Hiroki Sakamoto, Taisuke Nakata, and Hiroyuki Uneya, September 2025, Research Workshop, CiDER, Osaka University
 
 
-* "Real-Time Covid-19 Projections in Japan: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata, September 2025, to be presented at Research Workshop, CiDER, Osaka University
+
 
 
 
