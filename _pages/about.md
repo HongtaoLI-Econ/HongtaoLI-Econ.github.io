@@ -29,7 +29,7 @@ Publication:
 
 Working Paper:
 ===
-* "Optimal Containment Policy in a SIR-macro Model with Cautiousness", September 2025
+* "Optimal Containment Policy in a Macro-SIR Model with Cautiousness", September 2025
 
 * "Real-Time Covid-19 Projections in Japan: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata, September 2025, Research Workshop, CiDER, Osaka University
 
