@@ -29,11 +29,12 @@ Publication:
 
 Working Paper:
 ===
-* "Optimal Containment Policy in a Macro-SIR Model with Cautiousness", January 2026
+* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Submitted to Journal of the Japanese and International Economies
+)
 
-* "Lockdown Policy Rules with a Hospital Capacity Constraint" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya, January 2026
+* "Optimal Containment Policy in a Macro-SIR Model with Cautiousness"
 
-* "Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata, January 2026
+* "Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata
 
 
 
