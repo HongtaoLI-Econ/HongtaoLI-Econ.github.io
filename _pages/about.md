@@ -16,12 +16,12 @@ My CV is here: [CV](../files/CV_Hongtao LI_202601.pdf).
 Email: lee.hungtou[at]gmail.com  
 
 
-I'm a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://www.pp.u-tokyo.ac.jp/en/)). 
+I'm a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://sites.google.com/view/macro-group-u-tokyo/home)). 
 
-Research interests: Macroeconomics, Economic Policy, Epidemiological Dynamics, International Finance, and International Economics.
+Research interests: Macroeconomics, Economic Policy, Epidemiological Dynamics, and International Economics.
 
 
-I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0), and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/) at the University of Tokyo.
+<!--I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0), and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/) at the University of Tokyo.-->
 
 Publication:
 ===
@@ -32,7 +32,7 @@ Working Paper:
 * "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Submitted to Journal of the Japanese and International Economies
 )
 
-* "Optimal Containment Policy in a Macro-SIR Model with Cautiousness"
+* "Optimal Containment Policy in a Macro-SIR Model with Mask-wearing"
 
 * "Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata
 
