@@ -24,9 +24,9 @@ Research interests: Macroeconomics, Economic Policy, Epidemiological Dynamics, a
 I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0), and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/) at the University of Tokyo.
 <!---->
 
-Publication:
+Career:
 ===
-2026 June -: Assistant Professor
+** 2026 June -: Assistant Professor
 Kanto Gakuen University, Department of Economics, Japan, Gunma
 
 Publication:
