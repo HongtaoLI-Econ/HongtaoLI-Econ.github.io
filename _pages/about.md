@@ -32,7 +32,7 @@ Kanto Gakuen University, Department of Economics, Japan, Gunma
 
 Publication:
 ===
-* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng HAN, Japan and the World Economy, Vol. 64, 2022, 101162.
+* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, Japan and the World Economy, Vol. 64, 2022, 101162.
 
 Working Paper:
 ===
