@@ -26,7 +26,7 @@ I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google
 
 Career:
 ===
-** 2026 June -         : Assistant Professor
+* 2026 June -         : Assistant Professor
 Kanto Gakuen University, Department of Economics, Japan, Gunma
 
 Publication:
