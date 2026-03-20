@@ -26,6 +26,11 @@ I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google
 
 Publication:
 ===
+2026 June -: Assistant Professor
+Kanto Gakuen University, Department of Economics, Japan, Gunma
+
+Publication:
+===
 * "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng HAN, Japan and the World Economy, Vol. 64, 2022, 101162.
 
 Working Paper:
