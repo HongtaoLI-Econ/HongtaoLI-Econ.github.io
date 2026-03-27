@@ -10,7 +10,7 @@ redirect_from:
 
 <br />
 
-My CV is here: [CV](../files/CV_Hongtao LI_202601.pdf).
+My CV is here: [CV](../files/CV_Hongtao LI_202603.pdf).
 ===
 <br />
 Email: lee.hungtou[at]gmail.com  
@@ -26,9 +26,12 @@ I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google
 
 Career:
 ===
-* 2026 June -         : Assistant Professor
+* 2026 June -         : Appointed as Assistant Professor
   
-Kanto Gakuen University, Department of Economics, Japan, Gunma
+Kanto Gakuen University, Faculty of Economics, Japan, Gunma
+
+Planned teaching courses: Finance, International Finance, Pandemic and the Economy
+
 
 Publication:
 ===
