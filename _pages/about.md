@@ -39,10 +39,9 @@ Publication:
 
 Working Paper:
 ===
-* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Submitted to Journal of the Japanese and International Economies and under review
-)
+* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Submitted to Journal of the Japanese and International Economies and under review)
 
-* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)"
+* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (Submitted to Journal of Macroeconomics)
 
 * "Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata
 
