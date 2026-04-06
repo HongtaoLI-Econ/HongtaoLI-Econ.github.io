@@ -43,7 +43,7 @@ Working Paper:
 
 * "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (Submitted to Journal of Macroeconomics)
 
-* "Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics" with Jianing Chu and Taisuke Nakata
+* "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.researchgate.net/publication/403537734_Real-Time_COVID-19_Projections_in_Tokyo_Lessons_for_Future_Pandemics)" with Jianing Chu and Taisuke Nakata
 
 
 
