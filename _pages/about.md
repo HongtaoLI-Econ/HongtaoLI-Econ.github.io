@@ -35,7 +35,7 @@ Planned teaching courses: Finance, International Finance, Pandemic and the Econo
 
 Publication:
 ===
-* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, Japan and the World Economy, Vol. 64, 2022, 101162.
+* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, _Japan and the World Economy_, Vol. 64, 2022, 101162.
 
 Working Paper:
 ===
