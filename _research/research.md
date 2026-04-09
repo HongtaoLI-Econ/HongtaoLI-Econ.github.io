@@ -12,7 +12,7 @@ Publication:
 ===
 * "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, Japan and the World Economy, Vol. 64, 2022, 101162.
 
--- This paper offers a variant of the Ricardian model able to structurally interpret the estimate of country specific variable—transportation infrastructure. Guided by this new theoretical framework, this paper shows
+- This paper offers a variant of the Ricardian model able to structurally interpret the estimate of country specific variable—transportation infrastructure. Guided by this new theoretical framework, this paper shows
 that transportation infrastructure enhances international trade more than internal trade. Further quantitative analysis suggests 10% increase in transportation infrastructure induces about 4% increase in real income and more
 than 95% of the gains concentrate on the infrastructure improving country. This paper also suggests that transportation infrastructure improvement increases real income mostly through internal trade cost reduction. All the above results suggest that better infrastructure leads to sizable gains providing additional empirical support to policies aiming to improve transportation infrastructure.
 
