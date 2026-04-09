@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/utokyo
 venue: "The University of Tokyo, Graduate School of Pubilc Policy"
-date: 2020-01-01
+date: 2026-04-09
 location: "Tokyo, Japan"
 ---
 
