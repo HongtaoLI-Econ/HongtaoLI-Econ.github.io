@@ -18,7 +18,7 @@ Email: lee.hungtou[at]gmail.com
 
 I'm a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://sites.google.com/view/macro-group-u-tokyo/home)). 
 
-Research interests: Macroeconomics, Economic Policy, Epidemiological Dynamics, and International Economics.
+Research interests: Macroeconomics, Economic Policy, Public Health, and International Economics.
 
 
 I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0), and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/) at the University of Tokyo.
@@ -26,7 +26,7 @@ I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google
 
 Career:
 ===
-* 2026 June -         : Appointed as Assistant Professor
+* 2026 June -         : Appointed as Lecturer
   
 Kanto Gakuen University, Faculty of Economics, Japan, Gunma
 
