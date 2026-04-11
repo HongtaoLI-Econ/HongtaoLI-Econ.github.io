@@ -39,7 +39,7 @@ Publication:
 
 Working Paper:
 ===
-* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (**Under review** at _Economic Modelling_)
+* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6552013)" (**Job market paper**) (**Under review** at _Economic Modelling_)
   
 * "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (**Under review** at _Journal of the Japanese and International Economies_)
 
