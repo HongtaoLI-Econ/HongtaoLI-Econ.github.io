@@ -28,7 +28,7 @@ Career:
 ===
 * 2026 June -         : Appointed as Lecturer
   
-Kanto Gakuen University, Faculty of Economics, Japan, Gunma
+Kanto Gakuen University, Faculty of Economics, Japan, Gumma
 
 Planned teaching courses: Finance, International Finance, Pandemic and the Economy
 
