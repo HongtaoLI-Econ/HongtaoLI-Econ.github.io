@@ -45,7 +45,7 @@ Working Paper:
 
 * "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.carf.e.u-tokyo.ac.jp/research/f623/)" with Jianing Chu and Taisuke Nakata
   
-* "Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies" with Changrong Lu, Bing Pang, and Fandi Yu (**Under revision for invited resubmission to** _Emerging Market Review_)
+* "Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies" with Changrong Lu, Bing Pang, and Fandi Yu (**Under revision for invited resubmission to** _Emerging Markets Review_)
 
 
 
