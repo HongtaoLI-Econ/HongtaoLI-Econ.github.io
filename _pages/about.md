@@ -26,11 +26,9 @@ I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google
 
 Career:
 ===
-* 2026 June -         : Appointed as Lecturer
-  
-Kanto Gakuen University, Faculty of Economics, Japan, Gumma
+* 2026 June -        : Lecturer, Kanto Gakuen University, Faculty of Economics, Japan, Gumma
 
-Planned teaching courses: Finance, International Finance, Pandemic and the Economy
+Teaching courses: Finance, International Finance, Pandemic and the Economy
 
 
 Publication:
