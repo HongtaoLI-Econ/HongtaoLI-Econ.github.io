@@ -35,7 +35,7 @@ Publication:
 ===
 * "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, _Japan and the World Economy_, Vol. 64, 2022, 101162.
 
-Working Paper:
+Working Papers:
 ===
 * "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (**Under review** at _Economic Modelling_)
   
