@@ -37,13 +37,13 @@ Publication:
 
 Working Papers:
 ===
-* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (**Under review** at _Economic Modelling_)
+* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (Under review at _**Economic Modelling**_)
   
-* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (**Under review** at _Journal of the Japanese and International Economies_)
+* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Under review at _**Journal of the Japanese and International Economies**_)
 
-* "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.carf.e.u-tokyo.ac.jp/research/f623/)" with Jianing Chu and Taisuke Nakata (Submitted to _Discover Public Health_)
+* "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.carf.e.u-tokyo.ac.jp/research/f623/)" with Jianing Chu and Taisuke Nakata (Submitted to _**Discover Public Health**_)
   
-* "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (**Resubmitted to** _Emerging Markets Review_)
+* "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
 
 Working in Progress:
