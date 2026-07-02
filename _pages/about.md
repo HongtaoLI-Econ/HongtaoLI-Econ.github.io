@@ -15,11 +15,9 @@ My CV is here: [CV](../files/CV_Hongtao LI_202605.pdf).
 <br />
 Email: lee.hungtou[at]gmail.com  
 
-
-I'm a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://sites.google.com/view/macro-group-u-tokyo/home)). 
+I am a lecturer at the Faculty of Economics at Kanto Gakuen University and a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://sites.google.com/view/macro-group-u-tokyo/home)). 
 
 Research interests: Macroeconomics, Economic Policy, Public Health, and International Economics.
-
 
 I am very fortunate to be advised by [Prof. Taisuke Nakata](https://sites.google.com/site/taisukenakata/), [Prof. Kenichi Ueda](https://sites.google.com/view/kenichi-ueda/home?authuser=0), and [Prof. Ryo Kato](https://www.pp.u-tokyo.ac.jp/en/faculty/kato-ryo-2/) at the University of Tokyo.
 <!---->
@@ -37,7 +35,7 @@ Publication:
 
 Working Papers:
 ===
-* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (Under review at _**Economic Modelling**_)
+* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) 
   
 * "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Under review at _**Journal of the Japanese and International Economies**_)
 
