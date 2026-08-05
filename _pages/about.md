@@ -34,7 +34,7 @@ Teaching courses: Finance, Pandemic and the Economy, Sophomore Seminar
 
 Publication:
 ===
-* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, _**Japan and the World Economy**_, Vol. 64, 2022, 101162.
+* "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, _**Japan and the World Economy**_, Vol. 64, 2022, 101162 (featured in the journal’s ScienceDirect “Top cited” section in August 2025 and “Most downloaded” section in August 2026).
 
 Working Papers:
 ===
