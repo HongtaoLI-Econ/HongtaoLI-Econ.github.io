@@ -32,7 +32,7 @@ Career:
 ===
 * 2026 June -        : Lecturer, Faculty of Economics at Kanto Gakuen University
 
-Teaching courses: Finance, Pandemic and the Economy, Sophomore Seminar
+Teaching courses: Finance, Pandemic and the Economy, and Sophomore Seminar
 
 
 Publication:
