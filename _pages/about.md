@@ -17,7 +17,10 @@ Email: lee.hungtou[at]gmail.com
 
 I am a lecturer at the Faculty of Economics at Kanto Gakuen University.
 
-I graduated from Sun Yat-sen University with a B.S. in Mathematics in June 2018, and from the University of Tokyo with an M.P.P. in March 2021 and a Ph.D. in Public Policy in July 2026.
+I graduated from the University of Tokyo with a Ph.D. in Public Policy in July 2026 and an M.P.P. in March 2021.
+
+I graduated from Sun Yat-sen University with a B.S. in Mathematics in June 2018.
+
 <!--and a Ph.D. Candidate from the Department of International Finance and Development of the Graduate School of Public Policy at the University of Tokyo ([UTokyo](https://sites.google.com/view/macro-group-u-tokyo/home)). -->
 
 Research interests: Macroeconomics, Economic Policy, Public Health, and International Economics.
@@ -48,6 +51,9 @@ Working Papers:
 
 * "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang (Under review at **_Pacific-Basin Finance Journal_**)
 
+Working in progress:
+===
+* "What Is Encoded in COVOL Loadings? Country Structure in the Common Volatility Exposure of Global Semiconductor Firms" with Bing Pang
 
 
 
