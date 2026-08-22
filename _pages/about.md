@@ -45,13 +45,13 @@ Working Papers:
   
 * "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Under review at _**Journal of the Japanese and International Economies**_)
 
-* "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.carf.e.u-tokyo.ac.jp/research/f623/)" with Jianing Chu and Taisuke Nakata (Resubmitted to _**Discover Public Health**_)
+* "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.carf.e.u-tokyo.ac.jp/research/f623/)" with Jianing Chu and Taisuke Nakata (Under **Minor Revision** at _**Discover Public Health**_)
   
 * "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
 * "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang (Under review at **_Pacific-Basin Finance Journal_**)
 
-Working in progress:
+Working in Progress:
 ===
 * "What Is Encoded in COVOL Loadings? Country Structure in the Common Volatility Exposure of Global Semiconductor Firms" with Bing Pang
 
