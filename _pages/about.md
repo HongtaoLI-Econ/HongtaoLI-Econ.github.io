@@ -43,13 +43,13 @@ Working Papers:
 ===
 * "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) 
   
-* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Under review at _**Journal of the Japanese and International Economies**_)
+* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya 
 
-* "[Real-Time Covid-19 Projections in Tokyo: Lessons for Future Pandemics](https://www.carf.e.u-tokyo.ac.jp/research/f623/)" with Jianing Chu and Taisuke Nakata (Under **Minor Revision** at _**Discover Public Health**_)
+* "[A Retrospective Assessment of Short-horizon Real-time COVID-19 Projections in Tokyo]"[CARF working paper version](https://www.carf.e.u-tokyo.ac.jp/research/f623/) with Jianing Chu and Taisuke Nakata (**Accepted** by _**Discover Public Health**_)
   
 * "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
-* "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang (Under review at **_Pacific-Basin Finance Journal_**)
+* "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang 
 
 Working in Progress:
 ===
