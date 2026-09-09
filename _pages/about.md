@@ -45,7 +45,7 @@ Working Papers:
   
 * "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya 
 
-* "[A Retrospective Assessment of Short-horizon Real-time COVID-19 Projections in Tokyo]"([CARF working paper version] (https://www.carf.e.u-tokyo.ac.jp/research/f623/)) with Jianing Chu and Taisuke Nakata (**Accepted** by _**Discover Public Health**_)
+* "[A Retrospective Assessment of Short-horizon Real-time COVID-19 Projections in Tokyo]" ([CARF working paper version](https://www.carf.e.u-tokyo.ac.jp/research/f623/)) with Jianing Chu and Taisuke Nakata (**Accepted** by _**Discover Public Health**_)
   
 * "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
