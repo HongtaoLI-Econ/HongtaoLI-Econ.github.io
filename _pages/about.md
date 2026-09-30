@@ -39,7 +39,7 @@ Publication:
 ===
 * "[Transportation Infrastructure and Trade](https://www.sciencedirect.com/science/article/pii/S0922142522000470)" with Zheng Han, _**Japan and the World Economy**_, Vol. 64, 2022, 101162 (Featured in the journal’s ScienceDirect “Top cited” section in August 2025 and “Most downloaded” section in August 2026).
 
-* "A Retrospective Assessment of Short-horizon Real-time COVID-19 Projections in Tokyo" [[CARF WP Version (2026)](https://www.carf.e.u-tokyo.ac.jp/research/f623/)] with Jianing Chu and Taisuke Nakata (**Forthcoming** in _**Discover Public Health**_)
+* "[A Retrospective Assessment of Short-horizon Real-time COVID-19 Projections in Tokyo](https://link.springer.com/article/10.1186/s12982-026-02965-0)" with Jianing Chu and Taisuke Nakata, _**Discover Public Health**_, Vol. 23, 1554 (2026)[[CARF WP Version (2026)](https://www.carf.e.u-tokyo.ac.jp/research/f623/)])
 
 Working Papers:
 ===
