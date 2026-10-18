@@ -53,7 +53,7 @@ Working Papers:
 
 Working in Progress:
 ===
-* "What Is Encoded in COVOL Loadings? Country Structure in the Common Volatility Exposure of Global Semiconductor Firms" with Bing Pang (submitted)
+* "What Is Encoded in COVOL Loadings? Country Structure in the Common Volatility Exposure of Global Semiconductor Firms" with Bing Pang 
 
 
 
