@@ -17,7 +17,8 @@ Email: lee.hungtou[at]gmail.com
 
 I am a lecturer at the Faculty of Economics at Kanto Gakuen University.
 
-I graduated from the University of Tokyo with a Ph.D. in Public Policy in July 2026 and an M.P.P. in March 2021. <br> I graduated from Sun Yat-sen University with a B.S. in Mathematics in June 2018.
+I graduated from the University of Tokyo with a Ph.D. in Public Policy in July 2026 and an M.P.P. in March 2021. <br> 
+I graduated from Sun Yat-sen University with a B.S. in Mathematics in June 2018.
 
 Research interests: Macroeconomics, Economic Policy, Public Health, and International Economics.
 
