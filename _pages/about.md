@@ -40,13 +40,13 @@ Publication:
 
 Working Papers:
 ===
-* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (submitted)
+* "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (Submitted)
   
-* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (submitted)
+* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Submitted)
   
 * "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
-* "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang (submitted)
+* "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang (Submitted)
 
 Working in Progress:
 ===
