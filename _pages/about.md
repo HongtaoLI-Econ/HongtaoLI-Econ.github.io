@@ -42,7 +42,7 @@ Working Papers:
 ===
 * "[Optimal Containment Policy with Private Protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479822)" (**Job market paper**) (Submitted)
   
-* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Submitted)
+* "[Lockdown Policy Rules with a Hospital Capacity Constraint](https://www.carf.e.u-tokyo.ac.jp/en/research/f620/)" with Taisuke Nakata, Hiroki Sakamoto, and Hiroyuki Uneya (Under Review at _**Contemporary Economic Policy**_)
   
 * "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
