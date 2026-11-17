@@ -46,7 +46,7 @@ Working Papers:
   
 * "[Balancing Safety, Liquidity, and Yield under Geopolitical Risk: Model-Implied Evidence from BRIC Economies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6856502)" with Changrong Lu, Bing Pang, and Fandi Yu (Resubmitted to _**Emerging Markets Review**_)
 
-* "Does Comovement Reveal a Channel? Semiconductor Policy Shocks and Supply-Chain Transmission across Global Equity Markets" with Bing Pang and Yuanhao Wang (Submitted)
+* "Semiconductor Trade Connectivity and Global Semiconductor Equity-Market Dependence: Evidence from Policy Events" with Bing Pang and Yuanhao Wang (Submitted)
 
 Working in Progress:
 ===
